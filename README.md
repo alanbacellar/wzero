@@ -1,6 +1,13 @@
 # wzero
 Weightless Neural Networks Library
   - A Collecation of Weghtless models implementd in in paralellized C++ code with a python binding.
+    - WiSARD
+    - Bleaching WiSARD
+    - Bloom WiSARD
+    - SGD WiSARD
+    - ULEEN
+    - PseudoConvWiSARD
+    - etc
   - A Collectioins of Datasets commonly used in Weightless models
   - and many more.
  
