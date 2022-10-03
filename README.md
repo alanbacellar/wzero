@@ -5,7 +5,7 @@ Weightless Neural Networks Library
   - and many more.
   
  Mnist Example:
- ```
+ ```python
  import wzero as wz
  
  dataset = wz.datasets.Mnist().distrib_thermometer(10).flatten()
