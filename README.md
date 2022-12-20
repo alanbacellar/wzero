@@ -4,8 +4,7 @@ Weightless Neural Networks Library
     - WiSARD
     - Bleaching WiSARD
     - Bloom WiSARD
-    - SGD WiSARD
-    - ULEEN
+    - Bleaching Bloom WiSARD
     - PseudoConvWiSARD
     - etc
   - A Collectioins of Datasets commonly used in Weightless models
